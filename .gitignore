@@ -1,0 +1,12 @@
+# Created by https://www.gitignore.io/api/hugo,linux
+# Edit at https://www.gitignore.io/?templates=hugo,linux
+
+### Hugo ###
+# Generated files by hugo
+/public/
+/resources/_gen/
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
