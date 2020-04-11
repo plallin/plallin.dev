@@ -1,6 +1,8 @@
-baseURL = "https://plallin.dev/"
+baseURL = "https://plallin.github.io/plallin.dev/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+publishDir = "docs"
+
 
 theme = "aafu"
 

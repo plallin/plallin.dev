@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en-us"><head>
+  <title>Aafu theme</title>
+
+<meta name="theme-color" content="" />
+<meta charset="utf-8" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta name="description" content="Website title" />
+<meta name="author" content="Darshan Baral" />
+<meta name="generator" content="aafu theme by Darshan in Hugo 0.69.0" />
+
+        <link rel="apple-touch-icon" sizes="180x180" href="/plallin.dev/apple-touch-icon.png">
+
+        <link rel="icon" type="image/png" sizes="32x32" href="/plallin.dev/favicon-32x32.png">
+
+        <link rel="icon" type="image/png" sizes="16x16" href="/plallin.dev/favicon-16x16.png">
+
+        <link rel="manifest" href="/plallin.dev/site.webmanifest">
+
+        <link rel="mask-icon" href="/plallin.dev/safari-pinned-tab.svg color#252627">
+
+        <link rel="shortcut icon" href="/plallin.dev/favicon.ico">
+
+        
+
+
+  <link
+    rel="stylesheet"
+    href="/plallin.dev/css/bootstrap/bootstrap.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+    integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
+    crossorigin="anonymous"
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="//fonts.googleapis.com/css?family=Didact+Gothic%7CRoboto:400%7CRoboto+Mono"
+  />
+  <link rel="stylesheet" href="/plallin.dev/css/aafu_pinkish.css" />
+  <link rel="stylesheet" href="/plallin.dev/css/aafu.css" />
+
+  <script>
+    var themeColor = document.querySelector("meta[name=theme-color]");
+    window.onload = () => {
+      themeColor.content = getComputedStyle(document.body)["background-color"];
+      let defaultActivePanel = document.querySelector(".accordion.active");
+      if (defaultActivePanel) {
+        defaultActivePanel.nextElementSibling.style.maxHeight =
+          defaultActivePanel.nextElementSibling.scrollHeight + "px";
+      }
+    };
+    window.onresize = () => {
+      let defaultActivePanel = document.querySelector(".accordion.active");
+      if (defaultActivePanel) {
+        defaultActivePanel.nextElementSibling.style.maxHeight =
+          defaultActivePanel.nextElementSibling.scrollHeight + "px";
+      }
+    };
+  </script>
+</head>
+<body class="container">
+    <main style="min-height: calc(100vh - 60px);">
+      
+      <div class="d-flex flex-row row p-2">
+  <h3 class="main-menu mr-3">
+    <a href="https://plallin.github.io/plallin.dev/">Home</a>
+  </h3>
+  <h3 class="main-menu mr-3">
+    <a href="/plallin.dev/blog">Blog</a>
+  </h3>
+</div>
+
+      
+<h1 class="standard top-h1 mb-3">Tags</h1>
+<div class="standard grid-container">
+  
+</div>
+<div class="mt-4 d-flex justify-content-center">
+  
+
+
+</div>
+
+    </main>
+    
+    <footer class=" mt-2 mb-4 text-center ">
+  <span class="markdownify">aaa</span>
+  <span >
+    &middot;
+    <i>
+      <a href="https://github.com/darshanbaral/aafu">
+        aafu
+      </a>
+    </i>
+    by
+    <a href="https://www.darshanbaral.com/">
+      darshan
+    </a>
+  </span>
+</footer>
+
+    
+  </body>
+</html>
