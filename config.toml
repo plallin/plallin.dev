@@ -7,16 +7,16 @@ publishDir = "docs"
 theme = "aafu"
 
 [params]
-    title = "Aafu theme"
-    author = "Darshan Baral"
-    description = "Website title"
-    copyright = "aaa"
+    title = "Pauline Lallinec, Software Engineer"
+    author = "Pauline Lallinec"
+    description = "Pauline Lallinec's personal website"
+    # copyright = "Pauline Lallinec"
 
     [params.theme]
         # Available themes are 'light', 'dark', and 'pinkish'
         mainTheme = "pinkish"
         # setting false below will hide 'aafu by darshan' displayed under the profile pic
-        showAttribute = true
+        showAttribute = false
         singlePage = false
 
     [params.favicons]
@@ -32,9 +32,9 @@ theme = "aafu"
 
     # Profile section
     [params.profile]
-        name = "First Last, Abbr."
-		tagline = "Title"
-		location = "City Name, ST"
+        name = "Pauline Lallinec"
+		tagline = "Software Engineer"
+		location = "Dublin, Ireland"
         photo = "profile.jpg"
 
     # Section for links to social websites
@@ -44,33 +44,38 @@ theme = "aafu"
         [[params.social.list]]
             class = "fab"
             icon = "fa-linkedin-in"
-            url = "#"
+            url = "https://www.linkedin.com/in/plallinec/"
             title = "LinkedIn"		
+        # [[params.social.list]]
+        #     class = "fab"
+        #     icon = "fa-stack-overflow"
+        #     url = "#"
+        #     title = "StackOverflow"
         [[params.social.list]]
             class = "fab"
-            icon = "fa-stack-overflow"
-            url = "#"
-            title = "StackOverflow"
+            icon = "fa-speaker-deck"
+            url = "https://speakerdeck.com/plallin"
+            title = "Speaker Deck"
         [[params.social.list]]
             class = "fab"
             icon = "fa-github"
-            url = "#"
+            url = "https://github.com/plallin/"
             title = "GitHub"
         [[params.social.list]]
             class = "fab"
             icon = "fa-twitter"
-            url = "#"
+            url = "https://twitter.com/plallin"
             title = "Twitter"
-		[[params.social.list]]
-            class = "ai"
-            icon = "ai-google-scholar"
-            url = "#"
-            title = "Google Scholar"
-		[[params.social.list]]
-            class = "ai"
-            icon = "ai-researchgate"
-            url = "#"
-            title = "ResearchGate"
+		# [[params.social.list]]
+        #     class = "ai"
+        #     icon = "ai-google-scholar"
+        #     url = "#"
+        #     title = "Google Scholar"
+		# [[params.social.list]]
+        #     class = "ai"
+        #     icon = "ai-researchgate"
+        #     url = "#"
+        #     title = "ResearchGate"
 
     #Specify what is showin in the Accordion
     [[params.showInAccordion]]
@@ -92,7 +97,7 @@ theme = "aafu"
     [params.aboutme]
         title = "About Me"
         icon = "fas fa-user"
-        description = "**Tagline. Lorem ipsum dolor sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        description = "Software engineer (Devops), Public Cloud Engineering. Building the platform to deploy Workday on AWS, using technologies such as Docker, Kubernetes, Helm & Istio."
 
     # Experience section
     [params.experience]
@@ -100,15 +105,15 @@ theme = "aafu"
         icon = "fas fa-briefcase"
 
         [[params.experience.list]]
-            position = "Job Title"
-            dates = "2019 - *Present*"
-            company = "Company Name"
-            details = "Printed from desktop. Sent [emails](#). Called people using telephone. Drank water from office cooler. Ate donuts on people's birthdays."
+            position = "Software Development Engineer"
+            dates = "2017 - *Present*"
+            company = "Workday"
+            details = "Public Cloud Engineering"
         [[params.experience.list]]
-            position = "Job Title"
-            dates = "2018 - 2019"
-            link = "#"
-            company = "Company Name"
+            position = "Various positions in Human Resources & Business"
+            dates = "2010 - 2015"
+            company = "Microsoft, Atos, ICON"
+            details = "Position held before professional conversion to computer science."
 
     # Education section
     [params.education]
@@ -116,101 +121,94 @@ theme = "aafu"
         icon = "fas fa-graduation-cap"
 
         [[params.education.list]]
-            degree = "Ph.D. in Subject"
-            college = "University of State-City"
-            dates = "2013 - 2018"
-            thesis_title = "Effect of humans on other humans: a study of human behavior."
-            thesis_link = "#"
+            degree = "M.S.c Computer Science"
+            college = "University College Dublin (UCD)"
+            dates = "2017"
         [[params.education.list]]
-            degree = "M.S. in Subject"
-            college = "University of State-City"
-            dates = "2013 - 2018"
-            thesis_title = "Effect of humans on other humans: a study of human behavior."
-            thesis_link = "#"
-        [[params.education.list]]
-            degree = "B.S. in Subject"
-            college = "University of State-City"
-            dates = "2004 - 2009"
+            degree = "M.S.c in Management"
+            college = "Kedge Management School - Bordeaux"
+            dates = "2013"
 
-    # Publication section
-    [params.publication]
-        title = "Publications"
-        icon = "fas fa-book"
-        #The order below determines the order in which the items appear in "Publications" section
-        format = ["date", "authors", "title", "journal"]
-        #If you don't want to group publications, comment the line below by adding # at the beginning
-        types = ["Journal Articles", "Proceedings"]
+    # # Publication section
+    # [params.publication]
+    #     title = "Talks"
+    #     icon = "fas fa-comments"
+    #     #The order below determines the order in which the items appear in "Publications" section
+    #     # format = ["date", "authors", "title", "journal"]
+    #     #If you don't want to group publications, comment the line below by adding # at the beginning
+    #     # types = ["Journal Articles", "Proceedings"]
 
-        [[params.publication.list]]
-            title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            authors = "F Last, F Second, P secondary"
-            date = "2018"
-            journal = "Journal of Field 52 (16), 9033-9044"
-            link = "#"
-            type = "Journal Articles"
+    #     [[params.publication.list]]
+    #         title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    #         authors = "F Last, F Second, P secondary"
+    #         date = "2018"
+    #         journal = "Journal of Field 52 (16), 9033-9044"
+    #         link = "#"
 
-        [[params.publication.list]]
-            title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            authors = "F Last, F Second, P secondary"
-            date = "2018"
-            journal = "Journal of Field 52 (16), 9033-9044"
-            link = "#"
-            type = "Journal Articles"
+    #     [[params.publication.list]]
+    #         title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    #         authors = "F Last, F Second, P secondary"
+    #         date = "2018"
+    #         journal = "Journal of Field 52 (16), 9033-9044"
+    #         link = "#"
 		
-        [[params.publication.list]]
-            title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            authors = "F Last, F Second, P secondary"
-            date = "2018"
-            journal = "Journal of Field 52 (16), 9033-9044"
-            link = "#"
-            type = "Proceedings"
+    #     [[params.publication.list]]
+    #         title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    #         authors = "F Last, F Second, P secondary"
+    #         date = "2018"
+    #         journal = "Journal of Field 52 (16), 9033-9044"
+    #         link = "#"
 
     # Project section
     [params.project]
-        title = "Projects"
-        icon = "fas fa-project-diagram"
+        title = "Talks"
+        icon = "fas fa-comments"
 
         [[params.project.list]]
-            title = "project"
-            url = "#"
-            description = "Description of the project"
+            title = "Introduction to custom resources"
+            url = "https://speakerdeck.com/plallin/introduction-to-custom-resources-in-kubernetes"
+            description = "Dublin Docker Meetup"
+            date = "March 2019"
         [[params.project.list]]
-            title = "project"
+            title = "Custom resources and Custom Controllers in Kubernetes"
             url = "#"
-            description = "Description of the project"
+            description = "Spelunking (Workday's internal tech conference)"
+            date = "March 2019"
         [[params.project.list]]
-            title = "project"
-            url = "#"
-            description = "Description of the project"
+            title = "Automated Helm Deployment Using Custom Controller and Operators"
+            url = "https://speakerdeck.com/plallin/automated-helm-deployments-using-custom-controllers-and-operators"
+            description = "Helm Summit 2019"
+            date = "September 2019"
         [[params.project.list]]
-            title = "project"
-            url = "#"
-            description = "Description of the project"            
+            title = "Using Helm to Achieve Frictionless Deployments"
+            url = "https://continuouslifecycle.london/sessions/using-helm-to-achieve-frictionless-deployments/"
+            description = "Continuous Lifecycle London (cancelled due to covid-19)"
+            date = "May 2020"
 
-    # Skill section
-    [params.skill]
-        title = "Skills"
-        panelId = "skill-panel"
-        icon = "fas fa-cogs"
+    # # Skill section
+    # [params.skill]
+    #     title = "Skills"
+    #     panelId = "skill-panel"
+    #     icon = "fas fa-cogs"
 
-        [[params.skill.list]]
-            skill = "Skill 1, Skill 2"
-            skillrating = 90
-        [[params.skill.list]]
-            skill = "Skill 3"
-            skillrating = 80
-        [[params.skill.list]]
-            skill = "Skill 4"
-            skillrating = 50
+    #     [[params.skill.list]]
+    #         skill = "Skill 1, Skill 2"
+    #         skillrating = 90
+    #     [[params.skill.list]]
+    #         skill = "Skill 3"
+    #         skillrating = 80
+    #     [[params.skill.list]]
+    #         skill = "Skill 4"
+    #         skillrating = 50
 
     # Hobby section
     [params.hobby]
         title = "Hobbies"
-        icon = "fas fa-gamepad"
+        icon = "fas fa-hiking"
 		
-        [[params.hobby.list]]		
-		    hobby = "Cooking"
         [[params.hobby.list]]		
 		    hobby = "Hiking"
         [[params.hobby.list]]		
-		    hobby = "Baking"
+		    hobby = "Karaoke"
+        [[params.hobby.list]]
+		    hobby = "Running"
