@@ -113,7 +113,7 @@ theme = "aafu"
             position = "Various positions in Human Resources & Business"
             dates = "2010 - 2015"
             company = "Microsoft, Atos, ICON"
-            details = "Position held before professional conversion to computer science."
+            details = "Positions held before professional conversion to computer science."
 
     # Education section
     [params.education]
@@ -127,7 +127,7 @@ theme = "aafu"
         [[params.education.list]]
             degree = "M.S.c in Management"
             college = "Kedge Management School - Bordeaux"
-            dates = "2013"
+            dates = "2012"
 
     # # Publication section
     # [params.publication]
