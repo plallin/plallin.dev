@@ -1,4 +1,4 @@
-baseURL = "http://plallin.dev/"
+baseURL = "https://plallin.dev/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 publishDir = "docs"
