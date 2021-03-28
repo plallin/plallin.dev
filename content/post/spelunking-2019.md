@@ -14,7 +14,7 @@ tags = [
 
 Spelunking is Workday's very own tech conference. It's only open to Workday developers. It's an opportunity to present the work that you do at Workday to the wider organization, as well as an opportunity to learn about what other engineering teams at Workday are doing.
 
-I gave a flavour of my [Docker Dublin](../docker-dublin/) talk, with more information as to how we may use this to deploy applications within Workday. There was an emphasis on how Workday teams can use Helm to deploy on our Kubernetes platform, and what the operator can do for them.
+I gave a flavour of my [Docker Dublin](/post/docker-dublin/) talk, with more information as to how we may use this to deploy applications within Workday. There was an emphasis on how Workday teams can use Helm to deploy on our Kubernetes platform, and what the operator can do for them.
 
 Unlike public conferences, conferences like Spelunking allow you to talk directly to the people who use your product (a Kubernetes platform) and show them how we are making their deployments safer and easier. It's a very nice way to have an outreach to your internal customers.
 

@@ -10,7 +10,7 @@ tags = [
 ]
 +++
 
-Directly after [the Helm Summit 2019](../helm-summit-2019/), I left Amsterdam to go directly to Tanzania and face another kind of summit - that is, Uhuru Peak, summit of the Kilimanjaro.
+Directly after [the Helm Summit 2019](/post/helm-summit-2019/), I left Amsterdam to go directly to Tanzania and face another kind of summit - that is, Uhuru Peak, summit of the Kilimanjaro.
 
 When I submitted my talk to the Helm Summit, I already knew that it was scheduled immediately before my hike. I thought my talk wouldn't be accepted. Well, it was, and I had to figure out how to make the most of both summits, which is a good problem to have.
 

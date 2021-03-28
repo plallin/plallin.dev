@@ -15,7 +15,7 @@ I was invited to talk at the [Continuous Lifecycle London 2020](https://2020.con
 
 This conference was initially scheduled as an in-person conference in May 2020, but due to the covid-19 pandemic, it was rescheduled as a virtual conference in July 2020.
 
-This talk is an extended version of the talk given at the Helm Summit in September 2019. It features more demonstrations and more explanations around operators (in particular about the Helm Operator from Flux).
+My talk, ["Using Helm to achieve frictionless deployments"](https://2020.continuouslifecycle.london/sessions/using-helm-to-achieve-frictionless-deployments/), is an extended version of the talk given at the Helm Summit in September 2019. It features more demonstrations and more explanations around operators (in particular about the Helm Operator from Flux).
 
 You will find my slides on [my SpeakerDeck](https://speakerdeck.com/plallin/using-helm-to-achieve-frictionless-deployments).
 

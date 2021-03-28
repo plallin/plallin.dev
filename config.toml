@@ -102,13 +102,19 @@ url = "https://twitter.com/plallin"
   url = "/post/"
 
   [[menu.main]]
-  name = "About"
+  name = "Talks"
   weight = 300
+  identifier = "talks"
+  url = "/talks/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 400
   identifier = "about"
   url = "/about/"
 
   [[menu.main]]
   name = "Contact"
-  weight = 400
+  weight = 500
   identifier = "contact"
   url = "/contact/"

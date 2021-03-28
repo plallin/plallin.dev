@@ -16,7 +16,7 @@ Today, for the first time ever, I delivered a technical talk in front of non-col
 
 I was invited to deliver a talk at the Dublin Docker Meetup! This meetup is centered around cloud technologies, including but not limited to Docker and Kubernetes.
 
-I talked about custom resources in Kubernetes. This is an introduction talk - explaining what customer resources are, how they work, and how to use them.
+I talked about custom resources in Kubernetes. This is an introduction talk - explaining what custom resources are, how they work, and how to use them.
 
 You will find my slides on [my SpeakerDeck](https://speakerdeck.com/plallin/introduction-to-custom-resources-in-kubernetes)
 
