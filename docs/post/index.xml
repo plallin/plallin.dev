@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Pauline Lallinec&#39;s personal website</title>
+    <link>https://plallin.dev/post/</link>
+    <description>Recent content in Posts on Pauline Lallinec&#39;s personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://plallin.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Continuous Lifecycle London 2020</title>
+      <link>https://plallin.dev/post/conlifecylelon-2020/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/post/conlifecylelon-2020/</guid>
+      <description>I was invited to talk at the Continuous Lifecycle London 2020 conference!</description>
+    </item>
+    
+    <item>
+      <title>I climbed the Kilimanjaro!</title>
+      <link>https://plallin.dev/post/kilimanjaro-2019/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/post/kilimanjaro-2019/</guid>
+      <description>Directly after the Helm Summit 2019, I left Amsterdam to go directly to Tanzania and face another kind of summit - that is, Uhuru Peak, summit of the Kilimanjaro.</description>
+    </item>
+    
+    <item>
+      <title>Helm Summit 2019</title>
+      <link>https://plallin.dev/post/helm-summit-2019/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/post/helm-summit-2019/</guid>
+      <description>I spoke at the Helm Summit 2019 in Amsterdam!
+The Helm Summit is a CNCF Conference focused on Helm, a package manager for Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>Workday Spelunking 2019</title>
+      <link>https://plallin.dev/post/spelunking-2019/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/post/spelunking-2019/</guid>
+      <description>Spelunking is Workday&amp;rsquo;s very own tech conference. It&amp;rsquo;s only open to Workday developers.</description>
+    </item>
+    
+    <item>
+      <title>Docker Dublin Meetup - March 2019</title>
+      <link>https://plallin.dev/post/docker-dublin/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/post/docker-dublin/</guid>
+      <description>Today, for the first time ever, I delivered a technical talk in front of non-colleagues.</description>
+    </item>
+    
+  </channel>
+</rss>

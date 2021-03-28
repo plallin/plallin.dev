@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personal on Pauline Lallinec&#39;s personal website</title>
+    <link>https://plallin.dev/tags/personal/</link>
+    <description>Recent content in personal on Pauline Lallinec&#39;s personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://plallin.dev/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I climbed the Kilimanjaro!</title>
+      <link>https://plallin.dev/post/kilimanjaro-2019/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/post/kilimanjaro-2019/</guid>
+      <description>Directly after the Helm Summit 2019, I left Amsterdam to go directly to Tanzania and face another kind of summit - that is, Uhuru Peak, summit of the Kilimanjaro.</description>
+    </item>
+    
+  </channel>
+</rss>

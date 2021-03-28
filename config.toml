@@ -6,6 +6,9 @@ theme = "anatole"
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
+# publishDir is important - this renders the website at said path
+# which is the path used by Github
+publishDir = "docs"
 
 # Enable Disqus
 #disqusShortname = ""

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pauline Lallinec&#39;s personal website</title>
+    <link>https://plallin.dev/</link>
+    <description>Recent content on Pauline Lallinec&#39;s personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://plallin.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Figure Shortcode</title>
+      <link>https://plallin.dev/examples/figure-shortcode/</link>
+      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
+      
+      <guid>https://plallin.dev/examples/figure-shortcode/</guid>
+      <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
+    </item>
+    
+    <item>
+      <title>Continuous Lifecycle London 2020</title>
+      <link>https://plallin.dev/post/conlifecylelon-2020/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/post/conlifecylelon-2020/</guid>
+      <description>I was invited to talk at the Continuous Lifecycle London 2020 conference!</description>
+    </item>
+    
+    <item>
+      <title>I climbed the Kilimanjaro!</title>
+      <link>https://plallin.dev/post/kilimanjaro-2019/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/post/kilimanjaro-2019/</guid>
+      <description>Directly after the Helm Summit 2019, I left Amsterdam to go directly to Tanzania and face another kind of summit - that is, Uhuru Peak, summit of the Kilimanjaro.</description>
+    </item>
+    
+    <item>
+      <title>Helm Summit 2019</title>
+      <link>https://plallin.dev/post/helm-summit-2019/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/post/helm-summit-2019/</guid>
+      <description>I spoke at the Helm Summit 2019 in Amsterdam!
+The Helm Summit is a CNCF Conference focused on Helm, a package manager for Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plallin.dev/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workday Spelunking 2019</title>
+      <link>https://plallin.dev/post/spelunking-2019/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/post/spelunking-2019/</guid>
+      <description>Spelunking is Workday&amp;rsquo;s very own tech conference. It&amp;rsquo;s only open to Workday developers.</description>
+    </item>
+    
+    <item>
+      <title>Docker Dublin Meetup - March 2019</title>
+      <link>https://plallin.dev/post/docker-dublin/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/post/docker-dublin/</guid>
+      <description>Today, for the first time ever, I delivered a technical talk in front of non-colleagues.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://plallin.dev/examples/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/examples/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://plallin.dev/examples/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/examples/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://plallin.dev/examples/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/examples/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://plallin.dev/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/contact/</guid>
+      <description>Please reach out via LinkedIn or Twitter.</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://plallin.dev/examples/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/examples/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://plallin.dev/examples/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/examples/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Guide to Thumbnails in Hugo</title>
+      <link>https://plallin.dev/examples/image-test/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/examples/image-test/</guid>
+      <description>Thumbnails can be enabled easily by setting the thumbnail parameter in the frontmatter to an image such as &amp;quot;images/landscape.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://plallin.dev/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/about/</guid>
+      <description>Hi! I&amp;rsquo;m Pauline. I&amp;rsquo;m a software engineer based in Dublin, Ireland.</description>
+    </item>
+    
+  </channel>
+</rss>
