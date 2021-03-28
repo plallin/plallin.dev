@@ -1,11 +1,8 @@
-{{ partial "header.html" . }}
-{{ partial "subheader.html" . }}
-
-<section id="main">
-  <div>
-   <h1 id="title">{{ .Title }}</h1>
-   <img src="https://http.cat/404" alt="404 NOT FOUND">
-  </div>
-</section>
-
-{{ partial "footer.html" . }}
+{{ define "main"}}
+    <main id="main">
+      <div>
+       <h1 id="title"><a href="{{ "/" | relURL }}">Go Home</a></h1>
+       <img src="https://http.cat/404.jpg" alt="404 NOT FOUND">
+      </div>
+    </main>
+{{ end }}
