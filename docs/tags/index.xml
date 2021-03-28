@@ -32,9 +32,18 @@
     <item>
       <title>conference</title>
       <link>https://plallin.dev/tags/conference/</link>
-      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://plallin.dev/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talks</title>
+      <link>https://plallin.dev/tags/talks/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/tags/talks/</guid>
       <description></description>
     </item>
     
@@ -53,15 +62,6 @@
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://plallin.dev/tags/kubernetes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talks</title>
-      <link>https://plallin.dev/tags/talks/</link>
-      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://plallin.dev/tags/talks/</guid>
       <description></description>
     </item>
     
