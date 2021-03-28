@@ -108,7 +108,7 @@
   </url>
   
   <url>
-    <loc>https://plallin.dev/post/docker-dublin/</loc>
+    <loc>https://plallin.dev/post/docker-dublin-2019/</loc>
     <lastmod>2019-03-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -209,6 +209,11 @@
   
   <url>
     <loc>https://plallin.dev/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plallin.dev/talks/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
