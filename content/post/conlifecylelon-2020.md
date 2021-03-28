@@ -17,6 +17,12 @@ This conference was initially scheduled as an in-person conference in May 2020, 
 
 My talk, ["Using Helm to achieve frictionless deployments"](https://2020.continuouslifecycle.london/sessions/using-helm-to-achieve-frictionless-deployments/), is an extended version of the talk given at the Helm Summit in September 2019. It features more demonstrations and more explanations around operators (in particular about the Helm Operator from Flux).
 
+> In this talk, Pauline Lallinec explains how to use Helm to deploy Kubernetes resources to production easily and safely, and how to automatically recover from an unsuccessful deployment to production.
+>
+> She will look into what Helm is and what problems it solves, why the deployment of Helm charts needs to be automated, and the strategies that can be implemented to recover from an unsuccessful Helm release.
+>
+> Pauline will also demonstrate how to use custom resources (CRDs) and custom controllers to make the deployment of Helm releases resilient and explain how this resilience can be achieved at no development cost using existing community-developed operators.
+
 You will find my slides on [my SpeakerDeck](https://speakerdeck.com/plallin/using-helm-to-achieve-frictionless-deployments).
 
 The session description is available [here](https://2020.continuouslifecycle.london/speakers/pauline-lallinec-workday/).

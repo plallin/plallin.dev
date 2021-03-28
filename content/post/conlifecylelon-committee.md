@@ -1,7 +1,7 @@
 +++
 author = "Pauline Lallinec"
 title = "I joined the Continuous Lifecycle London Programme Committee"
-date = "2019-09-11"
+date = "2020-11-12"
 description = "I joined the Continuous Lifecyle London Programme Committee"
 tags = [
     "conference",
