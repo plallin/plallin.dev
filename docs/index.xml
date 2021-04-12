@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Coviz - Visualising the rollout of Covid-19 vaccines in Ireland</title>
+      <link>https://plallin.dev/post/coviz/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/post/coviz/</guid>
+      <description>The Irish government has published an API which releases the latest vaccine figures everyday.</description>
+    </item>
+    
+    <item>
       <title>The Figure Shortcode</title>
       <link>https://plallin.dev/examples/figure-shortcode/</link>
       <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>

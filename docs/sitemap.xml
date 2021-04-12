@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://plallin.dev/tags/covid/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plallin.dev/post/coviz/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plallin.dev/tags/d3js/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plallin.dev/tags/javascript/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plallin.dev/post/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plallin.dev/tags/project/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plallin.dev/tags/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://plallin.dev/tags/demo/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url>
@@ -18,11 +53,6 @@
   </url>
   
   <url>
-    <loc>https://plallin.dev/tags/</loc>
-    <lastmod>2021-03-13T21:47:41+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://plallin.dev/examples/figure-shortcode/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url>
@@ -34,11 +64,6 @@
   
   <url>
     <loc>https://plallin.dev/post/conlifecylelon-committee/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plallin.dev/post/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
   </url>
   

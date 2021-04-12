@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Pauline Lallinec&#39;s personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Mar 2021 21:47:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://plallin.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>covid</title>
+      <link>https://plallin.dev/tags/covid/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/tags/covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>d3js</title>
+      <link>https://plallin.dev/tags/d3js/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/tags/d3js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://plallin.dev/tags/javascript/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project</title>
+      <link>https://plallin.dev/tags/project/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/tags/project/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>demo</title>
