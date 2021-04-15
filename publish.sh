@@ -2,5 +2,5 @@
 
 hugo
 git add docs
-git commit -m "render website changes"
+git commit -m "Publish updates as of: `date`"
 git push
