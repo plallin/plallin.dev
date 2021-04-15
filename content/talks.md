@@ -6,9 +6,9 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-* Spelunking talk tbd, Virtual conference, April 2021
+* "Tales of deploying Istio Ingress", Workday Spelunking, April 2021
 
-> tbd
+> This talk presents Workday's journey towards deploying Istio Ingress to our Public Cloud environments. As we transferred our services from our legacy ingress to our new Istio ingress solution, a number of platform and application-layer issues surfaced. This talk presents how browser policy, HSTS, cookie stickiness, and headers can break applications, how we debugged those issues, and how we resolved them. Attendees can expect to learn some common and less common pitfalls of updating platform and infrastructure, the tools and techniques to triage them, and how they can impact the underlying applications.
 
 * ["Using Helm to achieve frictionless deployments", Continuous Lifecycle London, Virtual conference, July 2020](/post/conlifecylelon-2020/)
 
