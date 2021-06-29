@@ -6,10 +6,82 @@
     <description>Recent content in Tags on Pauline Lallinec&#39;s personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://plallin.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>certification</title>
+      <link>https://plallin.dev/tags/certification/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/tags/certification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Certified Kubernetes Administrator</title>
+      <link>https://plallin.dev/tags/certified-kubernetes-administrator/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/tags/certified-kubernetes-administrator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CKA</title>
+      <link>https://plallin.dev/tags/cka/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/tags/cka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exam</title>
+      <link>https://plallin.dev/tags/exam/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/tags/exam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://plallin.dev/tags/kubernetes/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conference</title>
+      <link>https://plallin.dev/tags/conference/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Istio</title>
+      <link>https://plallin.dev/tags/istio/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/tags/istio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talks</title>
+      <link>https://plallin.dev/tags/talks/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/tags/talks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>covid</title>
@@ -66,38 +138,11 @@
     </item>
     
     <item>
-      <title>conference</title>
-      <link>https://plallin.dev/tags/conference/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://plallin.dev/tags/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talks</title>
-      <link>https://plallin.dev/tags/talks/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://plallin.dev/tags/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>helm</title>
       <link>https://plallin.dev/tags/helm/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://plallin.dev/tags/helm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kubernetes</title>
-      <link>https://plallin.dev/tags/kubernetes/</link>
-      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://plallin.dev/tags/kubernetes/</guid>
       <description></description>
     </item>
     

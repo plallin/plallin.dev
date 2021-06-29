@@ -6,10 +6,28 @@
     <description>Recent content in kubernetes on Pauline Lallinec&#39;s personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://plallin.dev/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Certified Kubernetes Administrator</title>
+      <link>https://plallin.dev/post/cka/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/post/cka/</guid>
+      <description>I passed the CKA exam and became a Certified Kubernetes Administrator!</description>
+    </item>
+    
+    <item>
+      <title>Continuous Lifecycle London 2021</title>
+      <link>https://plallin.dev/post/conlifecylelon-2021/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/post/conlifecylelon-2021/</guid>
+      <description>I was a last-minute presenter at the Continuous Lifecycle London 2021 conference!</description>
+    </item>
     
     <item>
       <title>Continuous Lifecycle London 2020</title>

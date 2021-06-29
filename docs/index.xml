@@ -12,6 +12,24 @@
     
     
     <item>
+      <title>Certified Kubernetes Administrator</title>
+      <link>https://plallin.dev/post/cka/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/post/cka/</guid>
+      <description>I passed the CKA exam and became a Certified Kubernetes Administrator!</description>
+    </item>
+    
+    <item>
+      <title>Continuous Lifecycle London 2021</title>
+      <link>https://plallin.dev/post/conlifecylelon-2021/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/post/conlifecylelon-2021/</guid>
+      <description>I was a last-minute presenter at the Continuous Lifecycle London 2021 conference!</description>
+    </item>
+    
+    <item>
       <title>Coviz - Visualising the rollout of Covid-19 vaccines in Ireland</title>
       <link>https://plallin.dev/post/coviz/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
@@ -171,7 +189,7 @@ The Helm Summit is a CNCF Conference focused on Helm, a package manager for Kube
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://plallin.dev/talks/</guid>
-      <description>&amp;ldquo;Tales of deploying Istio Ingress&amp;rdquo;, Workday Spelunking, April 2021   This talk presents Workday&amp;rsquo;s journey towards deploying Istio Ingress to our Public Cloud environments.</description>
+      <description>&amp;ldquo;Tales of deploying Istio Ingress&amp;rdquo;, Continuous Lifecycle London, May 2021   ThisThis talk presents Workday’s journey towards deploying Istio Ingress to our Public Cloud environments.</description>
     </item>
     
   </channel>

@@ -3,6 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://plallin.dev/tags/certification/</loc>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plallin.dev/tags/certified-kubernetes-administrator/</loc>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plallin.dev/post/cka/</loc>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plallin.dev/tags/cka/</loc>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plallin.dev/tags/exam/</loc>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plallin.dev/tags/kubernetes/</loc>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plallin.dev/post/</loc>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plallin.dev/tags/</loc>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plallin.dev/tags/conference/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plallin.dev/post/conlifecylelon-2021/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plallin.dev/tags/istio/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plallin.dev/tags/talks/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://plallin.dev/tags/covid/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url>
@@ -23,17 +83,7 @@
   </url>
   
   <url>
-    <loc>https://plallin.dev/post/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://plallin.dev/tags/project/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plallin.dev/tags/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,17 +108,7 @@
   </url>
   
   <url>
-    <loc>https://plallin.dev/tags/conference/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://plallin.dev/post/conlifecylelon-committee/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plallin.dev/tags/talks/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -79,11 +119,6 @@
   
   <url>
     <loc>https://plallin.dev/tags/helm/</loc>
-    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plallin.dev/tags/kubernetes/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
   

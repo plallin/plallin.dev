@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Istio on Pauline Lallinec&#39;s personal website</title>
+    <link>https://plallin.dev/tags/istio/</link>
+    <description>Recent content in Istio on Pauline Lallinec&#39;s personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://plallin.dev/tags/istio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Continuous Lifecycle London 2021</title>
+      <link>https://plallin.dev/post/conlifecylelon-2021/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/post/conlifecylelon-2021/</guid>
+      <description>I was a last-minute presenter at the Continuous Lifecycle London 2021 conference!</description>
+    </item>
+    
+  </channel>
+</rss>

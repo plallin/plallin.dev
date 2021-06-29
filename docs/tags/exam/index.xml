@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>exam on Pauline Lallinec&#39;s personal website</title>
+    <link>https://plallin.dev/tags/exam/</link>
+    <description>Recent content in exam on Pauline Lallinec&#39;s personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://plallin.dev/tags/exam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Certified Kubernetes Administrator</title>
+      <link>https://plallin.dev/post/cka/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plallin.dev/post/cka/</guid>
+      <description>I passed the CKA exam and became a Certified Kubernetes Administrator!</description>
+    </item>
+    
+  </channel>
+</rss>
